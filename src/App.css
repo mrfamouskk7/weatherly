@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+body{
+  background-image: url("./components/bg6.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
 }
 
 .App-logo {
